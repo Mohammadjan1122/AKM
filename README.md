@@ -1,5 +1,5 @@
-# pacman
-New Fb Cloning Commands PACMAN-Bolt
+# A K M 
+New Fb Cloning Commands AKM_A_K_M
 >>Features:
 >>Friendlist cloning
 >>Target bruteforce
@@ -7,16 +7,16 @@ New Fb Cloning Commands PACMAN-Bolt
 
 >>>USE OLD VERISON OF TERMUX IF YOU FACE ANY LOGIN PROBLEM
 
-apt update
+pkg update
 
-apt upgrade
+pkg upgrade
 
-apt install python python2 git -y
+pkg install python python2 git -y
 
 pip2 install requests mechanize
 
-git https://github.com/faizanwahla/pacman.git
+git https://github.com/faizanwahla/AKM.git
 
-cd pacman
+cd AKM
 
-python2 bolt
+python2 A_K_M
