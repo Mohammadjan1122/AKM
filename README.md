@@ -1,4 +1,9 @@
 # A K M 
+# telegram chanel https://t.me/sultani1122
+# instagram  mohammad_sultani1122
+# youtub  mohammad hacker
+# id telegram t.me/mohammad_hacker_1122
+
 New Fb Cloning Commands AKM_A_K_M
 >>Features:
 >>Friendlist cloning
