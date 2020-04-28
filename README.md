@@ -20,7 +20,7 @@ pkg install python python2 git -y
 
 pip2 install requests mechanize
 
-git https://github.com/faizanwahla/AKM.git
+git https://github.com/Mohammadjan1122/AKM.git
 
 cd AKM
 
