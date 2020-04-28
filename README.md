@@ -24,4 +24,8 @@ git https://github.com/faizanwahla/AKM.git
 
 cd AKM
 
-python2 A_K_M
+ls
+
+chmod 777 bolt
+
+python2 bolt
